@@ -360,7 +360,7 @@ box-shadow: 15px -10px 13px 3px rgba(62,66,66,0.41);
 }
 
 /* media quiries */
-@media (max-width:900px){
+@media (max-width:1000px){
 
 
     html {
